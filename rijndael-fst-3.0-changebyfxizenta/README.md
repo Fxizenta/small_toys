@@ -1,3 +1,18 @@
+## Usage:
+
+```bash
+make
+./rijndael-test-fst -t <E/D> -k <KEY_HEX> -m <ECB/CBC>
+```
+
+eg:
+
+![](https://myimage-1303975616.cos.ap-guangzhou.myqcloud.com/img/202120220106211339.png)
+
+
+
+## Follow are api readme
+
 Optimised ANSI C code for the Rijndael cipher (now AES)
 
 Authors:
